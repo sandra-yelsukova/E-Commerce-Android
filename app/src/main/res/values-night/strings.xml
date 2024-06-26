@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo_of_app_1">My</string>
+    <string name="logo_of_app_2">E-Commerce</string>
+</resources>

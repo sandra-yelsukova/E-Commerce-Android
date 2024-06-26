@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainBgColor">#E9E9E9</color>
+    <color name="asideBgColor">#C7C7C7</color>
+    <color name="logo_of_app_color">#FF4F6685</color>
+</resources>

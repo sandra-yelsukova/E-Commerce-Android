@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="logo_of_app_1">My</string>
+    <string name="logo_of_app_2">E-Commerce</string>
+    <string name="course_start_date">Старт обучения:</string>
+    <string name="course_level">Уровень:</string>
+    <string name="course_desc">За время программы вы научитесь верстать веб сайты, создавать серверные решения и программировать веб сайты различных жанров и сложностей. Вы изучите множество новых понятий, языков программирования и технологий.</string>
+    <string name="add_to_card_button_text">Добавить\nв корзину</string>
+    <string name="cardButton">Корзина</string>
+</resources>
